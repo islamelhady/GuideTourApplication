@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guide Tour Application</string>
+    <string name="famous_fragment">Famous</string>
+    <string name="restaurants_fragment">Restaurants</string>
+    <string name="hotels_fragment">Hotels</string>
+    <string name="airport_fragment">Airport</string>
+    <string name="stadium_fragment">Stadium</string>
+</resources>
